@@ -1,5 +1,5 @@
 # TencentQQ
-like QQ5.0,if you need download please!
+QQ5.0
 
 实现了QQ5.0的特效
   1、左侧拉、右侧拉
